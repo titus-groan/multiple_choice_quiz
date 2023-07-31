@@ -4,6 +4,6 @@ This is a multiple choice quiz app that fetches question and answer data from th
 
 Documentation:
 
-Open Trivia DB: https://opentdb.com/api_config.php
-Pyside6 (Qt for Python): https://doc.qt.io/qtforpython-6/
+Open Trivia DB: https://opentdb.com/api_config.php,
+Pyside6 (Qt for Python): https://doc.qt.io/qtforpython-6/,
 requests: https://requests.readthedocs.io/en/latest/api/
